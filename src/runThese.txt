@@ -1,0 +1,73 @@
+java -Xss4m QuickSortTest 10 1
+java -Xss4m QuickSortTest 10 1
+java -Xss4m QuickSortTest 10 1
+java -Xss4m QuickSortTest 10 1
+java -Xss4m QuickSortTest 10 1
+java -Xss4m QuickSortTest 10 1
+java -Xss4m QuickSortTest 10 1
+java -Xss4m QuickSortTest 10 1
+java -Xss4m QuickSortTest 10 1
+java -Xss4m QuickSortTest 10 1
+
+
+java -Xss4m QuickSortTest 100 1
+java -Xss4m QuickSortTest 100 1
+java -Xss4m QuickSortTest 100 1
+java -Xss4m QuickSortTest 100 1
+java -Xss4m QuickSortTest 100 1
+java -Xss4m QuickSortTest 100 1
+java -Xss4m QuickSortTest 100 1
+java -Xss4m QuickSortTest 100 1
+java -Xss4m QuickSortTest 100 1
+java -Xss4m QuickSortTest 100 1
+
+
+java -Xss4m QuickSortTest 1000 1
+java -Xss4m QuickSortTest 1000 1
+java -Xss4m QuickSortTest 1000 1
+java -Xss4m QuickSortTest 1000 1
+java -Xss4m QuickSortTest 1000 1
+java -Xss4m QuickSortTest 1000 1
+java -Xss4m QuickSortTest 1000 1
+java -Xss4m QuickSortTest 1000 1
+java -Xss4m QuickSortTest 1000 1
+java -Xss4m QuickSortTest 1000 1
+
+
+java -Xss4m QuickSortTest 10000 1
+java -Xss4m QuickSortTest 10000 1
+java -Xss4m QuickSortTest 10000 1
+java -Xss4m QuickSortTest 10000 1
+java -Xss4m QuickSortTest 10000 1
+java -Xss4m QuickSortTest 10000 1
+java -Xss4m QuickSortTest 10000 1
+java -Xss4m QuickSortTest 10000 1
+java -Xss4m QuickSortTest 10000 1
+java -Xss4m QuickSortTest 10000 1
+
+
+### WARNING! do not run these next ten commands unless you have 5-10 minutes to kill ###
+java -Xss8m QuickSortTest 100000 1
+java -Xss8m QuickSortTest 100000 1
+java -Xss8m QuickSortTest 100000 1
+java -Xss8m QuickSortTest 100000 1
+java -Xss8m QuickSortTest 100000 1
+java -Xss8m QuickSortTest 100000 1
+java -Xss8m QuickSortTest 100000 1
+java -Xss8m QuickSortTest 100000 1
+java -Xss8m QuickSortTest 100000 1
+java -Xss8m QuickSortTest 100000 1
+
+
+### WARNING!!! do not run the commands below unless you have alot (by a lot I mean hours) of time on your hands  ###
+java -Xss256m QuickSortTest 1000000 1
+java -Xss256m QuickSortTest 1000000 1
+java -Xss256m QuickSortTest 1000000 1
+java -Xss256m QuickSortTest 1000000 1
+java -Xss256m QuickSortTest 1000000 1
+java -Xss256m QuickSortTest 1000000 1
+java -Xss256m QuickSortTest 1000000 1
+java -Xss256m QuickSortTest 1000000 1
+java -Xss256m QuickSortTest 1000000 1
+java -Xss256m QuickSortTest 1000000 1
+

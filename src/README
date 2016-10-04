@@ -1,0 +1,34 @@
+OptimalBinarySearchTree and all of its acccompanying files have been tested and proven to run succesful
+
+If using GUI:
+	A. Open a terminal using shortcut "Ctrl+Alt+t" or by finding the LXterminal in the menu.
+
+Steps to compile:
+	1. Change directories to where the OptimalBinarySearchTreeTest.java, OptimalBinarySearchTree.java, Node.java are located. by using "cd"	
+	2. Once you are in the directory, type:
+
+		javac OptimalBinarySearchTreeTest.java OptimalBinarySearchTree.java Node.java
+
+		OR
+
+		javac *.java
+
+Steps to run:
+	1. Due to the recursive nature of this algorithm, you will need to allocate a larger amount of memory to the JVM for large values ( greater than 1000 ).
+
+	EXAMPLES: 
+		the following example is a traditional run of QuickSortTest (note: you cannot exceed n = 8000 using this method)
+
+			java OptimalBinarySearchTreeTest
+
+		The following is an example of a traditional run for n > 1000
+
+			java -Xss256k -Xmx128G OptimalBinarySearchTreeTest
+
+			-Xss256k - Xss 
+
+ALTERNATIVE: you can copy and paste the contents of runThese.txt and paste them into the command line (make sure you are in the same directory in which you compiled the program). This will execute all of the instances I tested in order to calculate the average. (DO NOT ENTER THE LAST 10 RUNS UNLESS YOU HAVE HOURS OF TIME TO WASTE)
+
+All output will be located in a file titled "output.txt" which will be located in the same directory in which you compiled/ran the program.
+
+A file titled "RunCountFile.txt" is also created. Ignore this file as it is simply for bookkeeping.
